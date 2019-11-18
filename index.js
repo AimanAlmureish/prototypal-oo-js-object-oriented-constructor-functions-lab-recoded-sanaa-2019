@@ -9,14 +9,15 @@ class Scooter{
 
 class Driver{
     constuctor(name,age,experience){
-    this.year = year
-    this.color = color
-    this.model = model
+    this.name = name
+    this.age = age
+    this.experience = experience
   }
 }
 
 class PickupLocation {
     constuctor(address,city){
-    
+    this.name = name
+    this.age = age
   }
 }
