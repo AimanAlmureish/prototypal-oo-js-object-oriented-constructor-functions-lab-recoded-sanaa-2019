@@ -1,5 +1,5 @@
 class Scooter{
-  constuctor(year,color,model){
+  constructor(year,color,model){
     this.year = year
     this.color = color
     this.model = model
@@ -8,7 +8,7 @@ class Scooter{
 }
 
 class Driver{
-    constuctor(name,age,experience){
+    constructor(name,age,experience){
     this.name = name
     this.age = age
     this.experience = experience
@@ -16,7 +16,7 @@ class Driver{
 }
 
 class PickupLocation {
-    constuctor(address,city){
+    constructor(address,city){
     this.address = address
     this.city = city
   }
