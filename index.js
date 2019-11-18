@@ -9,7 +9,9 @@ class Scooter{
 
 class Driver{
     constuctor(name,age,experience){
-    
+    this.year = year
+    this.color = color
+    this.model = model
   }
 }
 
