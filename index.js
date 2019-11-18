@@ -1,4 +1,4 @@
-let Scooter ={
+class Scooter{
   constuctor(year,color,model){
     this.year = year
     this.color = color
@@ -7,7 +7,7 @@ let Scooter ={
   
 }
 
-let Driver ={
+class Driver{
     constuctor(name,age,experience){
     this.name = name
     this.age = age
@@ -15,7 +15,7 @@ let Driver ={
   }
 }
 
-let PickupLocation = {
+class PickupLocation {
     constuctor(address,city){
     this.address = address
     this.city = city
