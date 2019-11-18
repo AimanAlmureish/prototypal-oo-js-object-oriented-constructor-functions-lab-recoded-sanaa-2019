@@ -1,18 +1,18 @@
 class Scooter{
-  constuctor(){
+  constuctor(year,color,model){
     
   }
   
 }
 
 class Driver{
-    constuctor(){
+    constuctor(name,age,experience){
     
   }
 }
 
 class PickupLocation {
-    constuctor(){
+    constuctor(address,city){
     
   }
 }
