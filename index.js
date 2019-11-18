@@ -15,7 +15,7 @@ let Driver{
   }
 }
 
-class PickupLocation {
+let PickupLocation {
     constuctor(address,city){
     this.address = address
     this.city = city
