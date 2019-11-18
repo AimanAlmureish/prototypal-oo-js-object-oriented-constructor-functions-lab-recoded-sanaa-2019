@@ -1,11 +1,18 @@
 class Scooter{
+  constuctor(){
+    
+  }
   
 }
 
 class Driver{
-  
+    constuctor(){
+    
+  }
 }
 
-class Scooter{
-  
+class PickupLocation {
+    constuctor(){
+    
+  }
 }
