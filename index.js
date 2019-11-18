@@ -7,7 +7,7 @@ class Scooter{
   
 }
 
-class Driver{
+let Driver{
     constuctor(name,age,experience){
     this.name = name
     this.age = age
